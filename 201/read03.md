@@ -26,4 +26,4 @@
 (I) Grid es más adecuado para diseños 2D, aunque aún puedes usarlo para diseños de una sola dimensión. Sin embargo, Flexbox es una mejor opción para diseños unidimensionales.
 
 10. "Si la IA (p. ej. ChatGPT) genera un layout Grid, no hace falta validarlo manualmente"
-(V) Aún es necesario revisar manualmente el diseño para asegurarse de que funcione correctamente y siga las mejores prácticas.
+(M) Aún es necesario revisar manualmente el diseño para asegurarse de que funcione correctamente y siga las mejores prácticas.
